@@ -1,5 +1,5 @@
 
-## Bem-vindo
+## Meu Perfil
 📂 LinkedIn: https://www.linkedin.com/in/thiago-assi/
 
 🏆 Currículo: https://thiago-assi.herokuapp.com/
