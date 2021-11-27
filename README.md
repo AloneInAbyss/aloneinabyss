@@ -9,7 +9,13 @@
 🎈 Familiar com PWA, SPAs, build automation, agile development, clean code, containers, APIs REST
 
 
-### 
+
+### Últimos Projetos
+> Clone do Frontend da Netflix
+> 
+> https://github.com/phricardorj/netflix-angular
+> ![Netflix Clone](https://user-images.githubusercontent.com/37054274/143662197-74a84848-bc9e-4c9c-b153-182adb0d8d1c.png)
+
 
 <!--
 **AloneInAbyss/aloneinabyss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
