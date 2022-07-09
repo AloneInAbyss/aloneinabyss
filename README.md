@@ -6,7 +6,7 @@
 
 💻 Tecnologias Front-end: ReactJS / NodeJS / ExpressJS / MongoDB
 
-💻 Tecnologias Back-end: ReactJS / NodeJS / ExpressJS / MongoDB
+💻 Tecnologias Back-end: Java / Spring / Quarkus
 
 🎈 Familiar com metodologias ágeis, REST APIs, Git e GitHub
 
