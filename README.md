@@ -4,10 +4,13 @@
 
 🏆 Currículo: https://thiago-assi.herokuapp.com/
 
-💻 Tecnologias: TypeScript / ReactJS / NodeJS / MongoDB / Git e GitHub / Java
+💻 Tecnologias Front-end: ReactJS / NodeJS / ExpressJS / MongoDB
 
-🎈 Familiar com PWA, SPAs, build automation, agile development, clean code, containers, APIs REST
+💻 Tecnologias Back-end: ReactJS / NodeJS / ExpressJS / MongoDB
 
+🎈 Familiar com metodologias ágeis, REST APIs, Git e GitHub
+
+🌱 Aprendendo sobre: microsserviços, contêineres, design patterns, desenvolvimento em nuvem
 
 
 ### Últimos Projetos
