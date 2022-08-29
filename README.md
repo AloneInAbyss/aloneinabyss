@@ -16,7 +16,7 @@
 ### Últimos Projetos
 > Clone do Frontend da Netflix
 > 
-> https://github.com/phricardorj/netflix-angular
+> https://github.com/phricardorj/angularflix
 > ![Netflix Clone](https://user-images.githubusercontent.com/37054274/143662197-74a84848-bc9e-4c9c-b153-182adb0d8d1c.png)
 
 
