@@ -1,17 +1,17 @@
 
 ## Meu Perfil
 <!--
-📂 LinkedIn: https://www.linkedin.com/in/thiago-assi/
-
 🏆 Currículo: https://thiago-assi.herokuapp.com/
 -->
-💻 Trabalhando atualmente com REST APIs, Microservices e Cloud Development 
+📂 LinkedIn: https://www.linkedin.com/in/thiago-assi/
 
-⚡ Principais tecnologias: Java, Spring, Quarkus, Bancos de Dados, Docker, NodeJS, ReactJS
+💻 Trabalhando atualmente com desenvolvimento fullstack em Angular e Quarkus
 
-🎈 Familiar com metodologias ágeis, padrões de projeto e test-driven development
+⚡ Principais tecnologias: TypeScript, Angular, Java, Quarkus, Bancos de Dados SQL, Docker
 
-🌱 Aprendendo sobre: DevOps, CI & CD, Clean Architecture, e muito mais... :infinity:
+🎈 Familiar com microsserviços, metodologia ágil, clean code, devops, desenvolvimento em nuvem, APIs REST, SPAs
+
+🌱 Aprendendo mais sobre: DevOps, CI/CD, Clean Architecture, e muito mais... :infinity:
 
 
 ### Últimos Projetos
