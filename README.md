@@ -15,7 +15,7 @@
 
 
 ### Últimos Projetos
-> Clone do Frontend da Netflix feito em Angular
-> 
-> https://github.com/phricardorj/angularflix
-> ![Netflix Clone](https://user-images.githubusercontent.com/37054274/143662197-74a84848-bc9e-4c9c-b153-182adb0d8d1c.png)
+> **Project Lovelace** é um rastreador de preços de Board Games para o site [Ludopedia](https://ludopedia.com.br/) com visualização através do [Notion](https://www.notion.so/)
+>
+> ![diagram-export-4-1-2024-8_27_43-PM](https://github.com/AloneInAbyss/aloneinabyss/assets/37054274/14a30c74-4009-481e-9921-836cfc2d1c9a)
+
