@@ -9,7 +9,7 @@
 
 ⚡ Principais tecnologias: TypeScript, Angular, Java, Quarkus, Bancos de Dados SQL, Docker
 
-🎈 Familiar com microsserviços, metodologia ágil, clean code, devops, desenvolvimento em nuvem, APIs REST, SPAs
+🎈 Familiar com microsserviços, metodologia ágil, clean code, TDD, devops, desenvolvimento em nuvem, APIs REST, SPAs
 
 🌱 Aprendendo mais sobre: DevOps, CI/CD, Clean Architecture, e muito mais... :infinity:
 
