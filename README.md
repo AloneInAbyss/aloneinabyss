@@ -15,7 +15,7 @@
 
 
 ### Últimos Projetos
-> [Project Lovelace](https://github.com/Project-Lovelace-HQ/l) é um rastreador de preços de Board Games para o site [Ludopedia](https://ludopedia.com.br/) com visualização através do [Notion](https://www.notion.so/)
+> [Project Lovelace](https://github.com/Project-Lovelace-HQ/) é um rastreador de preços de Board Games para o site [Ludopedia](https://ludopedia.com.br/) com visualização através do [Notion](https://www.notion.so/)
 >
 > ![diagram-export-4-13-2024-4_42_08-PM](https://github.com/AloneInAbyss/aloneinabyss/assets/37054274/9272a5cb-ffa8-4d8f-ac54-0aa3a07c6540)
 
